@@ -1,0 +1,68 @@
+﻿  Źródło.cpp
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,2): error C2059: błąd składniowy: „for”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,2): error C2143: błąd składniowy: brakuje „)” przed „;”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,20): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,20): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,26): error C2143: błąd składniowy: brakuje „;” przed „++”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,26): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,25): error C2086: "int i": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29): message : zobacz deklarację „i”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29,28): error C2059: błąd składniowy: „)”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(30,2): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(30,2): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,2): error C2059: błąd składniowy: „for”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,2): error C2143: błąd składniowy: brakuje „)” przed „;”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,20): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,20): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,18): error C2086: "int i": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29): message : zobacz deklarację „i”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,26): error C2143: błąd składniowy: brakuje „;” przed „++”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,26): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,25): error C2086: "int i": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29): message : zobacz deklarację „i”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(48,28): error C2059: błąd składniowy: „)”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(49,2): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(49,2): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,2): error C2059: błąd składniowy: „for”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,2): error C2143: błąd składniowy: brakuje „)” przed „;”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,20): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,20): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,26): error C2143: błąd składniowy: brakuje „;” przed „++”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,26): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,25): error C2086: "int j": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72): message : zobacz deklarację „j”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(72,28): error C2059: błąd składniowy: „)”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(73,2): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(73,2): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,2): error C2059: błąd składniowy: „for”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,2): error C2143: błąd składniowy: brakuje „)” przed „;”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,20): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,20): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,18): error C2086: "int i": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29): message : zobacz deklarację „i”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,26): error C2143: błąd składniowy: brakuje „;” przed „++”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,26): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,25): error C2086: "int i": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29): message : zobacz deklarację „i”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(86,28): error C2059: błąd składniowy: „)”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(87,2): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(87,2): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,2): error C2059: błąd składniowy: „for”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,2): error C2143: błąd składniowy: brakuje „)” przed „;”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,20): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,20): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,18): error C2086: "int i": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29): message : zobacz deklarację „i”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,26): error C2143: błąd składniowy: brakuje „;” przed „++”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,26): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,25): error C2086: "int i": zmiana definicji
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(29): message : zobacz deklarację „i”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(103,28): error C2059: błąd składniowy: „)”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(104,2): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(104,2): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(112,1): error C2059: błąd składniowy: „}”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(112,1): error C2143: błąd składniowy: brakuje „;” przed „}”
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło.cpp(112,2): warning C4138: znaleziono "*/" poza komentarzem
+  Źródło1.cpp
+C:\Users\Kuba\source\repos\kolos3\kolos3\Źródło1.cpp(21,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
